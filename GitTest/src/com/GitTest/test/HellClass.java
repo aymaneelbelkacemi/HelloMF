@@ -8,6 +8,8 @@ public class HellClass {
 		System.out.println("Hello MotherFucker");
 		System.out.println("this is :"+v1.a);
 		System.out.println("goodbye MotherFucker");
+		System.out.println("goodbye MotherFucker bouterma");
+		
 
 	}
 
